@@ -73,9 +73,9 @@ paascloud:
       expiredRemainMinutes: 20
       expiredMinutes: 120
   mail:
-    host: smtp.sina.com
-    username: '{cipher}AQBxkMO623/IxWVgRuxAl4OdLAM189Gj5SEPqSA6a2Ceki7Dik8X2idSBdESnNKaeCb0Rs5I/HvSBg8Q9rZoFDRzx4lSnoI0Bpm88/s99COY5nNJE4CVNeO5bheWEEPKSW4VjmxfQe9mUt/kT/FIj1uUYA0q1bQzxpbRvzb9qLqLok8VVCuJYQ1gSFXJPSwcO0A21J0W0ElCj4hh+3U9msM1TDFvo8bjv2JKH8OELcyD0DQ4l6Q/S0pvywuQtCnLW3Y7eb0cCUMhv3yOc2Xjx7T54SVKZT6apXojV3Lohsr6eoCP6bAnL3zVe1PDfuhOouznIh6w+ayJWg2JXzmT3cUg+bWoHnj69cvUrGehS1jovwlba7o/TuN9ozQFwb6qujNFZMrEByePn6riroA3Q88O'
-    password: '{cipher}AQASjX+oaNLEu1d4JWxDNVWjAiyGbS1gP5m2VbKYqQC/3MmYIYNH37syr0h8c8EsOYQYusFK0yM+CUaJbvzAJXBcq+l6ekCTm4CkXbXw1OvOtPTmN2pCf0t92P/ZyVCUc8BTbY/4nCL/x3ynsD4pgQqXHmMfXxgg4dG8zM73BToM01foVALi7ce6QIFRumnmTfmu99RobSnucNWmVcdekdfe2ICcOSpc7+vT/G79dcp7G6g384PWESq7DdchR+1JKJkmctgJ6RGZx5wXUiyNdmL3McJ8xkzHG3z/AwVhqk0pgzDsjH5rSU5HjL+LnwW5qUwfy4eBB974EEZ5K1pUEyrHAiDiSP3ZOovJZa0FqG3fbiz/C9wegP2Iyr0m2znHOjs='
+    host: smtp.sina.cn
+    username: 'lgqmicky@sina.cn'
+    password: 'li123321'
     test-connection: true
     properties:
       mail:
