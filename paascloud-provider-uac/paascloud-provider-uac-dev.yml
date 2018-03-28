@@ -1,6 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://rm-bp1ig8i376x410it2o.mysql.rds.aliyuncs.com:3306/paascloud_uac?characterEncoding=utf8&useSSL=false
+    username: mmmdev
+    password: Dev@2016
 paascloud:
   aliyun:
     rocketMq:
