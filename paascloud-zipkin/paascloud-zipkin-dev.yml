@@ -2,3 +2,5 @@ spring:
   datasource:
     schema: classpath:/mysql.sql
     url: jdbc:mysql://rm-bp1ig8i376x410it2o.mysql.rds.aliyuncs.com:3306/paascloud_zipkin?characterEncoding=utf8&useSSL=false
+    username: mmmdev
+    password: Dev@2016
